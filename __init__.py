@@ -1,0 +1,1 @@
+from gdo.decktopus.module_decktopus import module_decktopus
